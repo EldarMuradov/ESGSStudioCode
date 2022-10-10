@@ -1,5 +1,5 @@
 # ESGSStudioCode
-Official code redactor from ESGSStudio.
+Official code editor from ESGSStudio.
 Recomendations: 
 ---When you enter Source Name, don't forget to write ".exe".
 ---Availaable .NET Framework version less then v4.7.2.
